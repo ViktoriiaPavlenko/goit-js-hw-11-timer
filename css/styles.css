@@ -1,0 +1,16 @@
+.timer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.field {
+  margin-right: 20px;
+}
+.value,
+.label {
+  font-size: 40px;
+}
+.value {
+  color: rgb(193 78 212);
+}
