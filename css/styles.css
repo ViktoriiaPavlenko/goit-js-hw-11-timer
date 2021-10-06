@@ -1,3 +1,8 @@
+.title {
+  text-align: center;
+  color: rgb(54 184 37);
+  margin-top: 50px;
+}
 .timer {
   display: flex;
   align-items: center;
@@ -12,5 +17,5 @@
   font-size: 40px;
 }
 .value {
-  color: rgb(193 78 212);
+  color: rgb(54 184 37);
 }
